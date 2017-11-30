@@ -1,0 +1,126 @@
+/*type selector*/
+/*p {
+	background-color: yellow;
+}
+
+
+#para1{
+	background-color: red;
+
+}
+
+/*class selector */
+/*.paragraphs{
+	background-color: magenta;*/
+/*}
+
+ attribute selector 
+[target] {
+	color: green;
+
+}*/
+/* attribute (with value) selector */
+/*a[target = "_top"] {
+   color: indigo;
+}
+
+/* universal selector */
+/*body * {
+	background-color: green;
+}
+*/
+
+/*adjacent sibling*/
+
+/*h5 + a { 
+	background-color: red;
+}
+
+a + br + a,
+a + br + br + a	
+ {
+	background-color: green;
+}
+
+*/
+/*h5 ~ div a {*/
+	/*background-color: yellow;*/
+
+/*}*/
+
+/*child selector combinator */
+/*div > a{
+	background-color: blue;
+
+}*/
+/* descendant selector
+/*div a {
+	background-color: yellow;
+}*/
+
+/* pseudo-class */
+/*a:link {
+	color: 	orange;
+	background-color: black;
+}
+a:visited{
+	color:yellow;
+	background-color: green;
+}	*/
+
+/*a:focus {
+	background-color: black;
+	color: red;
+}
+*/
+
+a:hover {
+	background-color: blue;
+	color: orange;
+
+}
+
+a:active 
+h3:active,
+h5:active{
+	background-color: yellow;
+	color: black;
+}
+	
+
+
+
+/*first child*/
+/*li:first-child,
+li:last-child {
+	background-color: black;
+	color: yellow;
+}
+
+p:first-child,
+p:last-child{
+	background-color: black;
+	color: yellow;*/
+/*}*/
+/*
+li:nth-child(odd), 
+p:nth-child(odd){
+
+
+	background-color: black;
+	color: orange;
+}*/
+
+/*h3,
+h5,
+p,
+li{
+	background-color: black;
+	color: white;
+}
+
+.thirdpara {
+	background-color: blue;
+	color: red;
+
+}*/
