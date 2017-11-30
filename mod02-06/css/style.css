@@ -18,12 +18,12 @@
 .wrapper {
 	width: 700px;
 	margin:0 auto;
-	background-color: lightgrey;
+	background: url("../img/bg.png");
 
 }
 
 header {
-	background-color: #0099cc;
+	background-color: #bce6f6;
 	height: 70px;
 	line-height: 70px;
 	color: white;
@@ -33,7 +33,7 @@ header {
 }
 
 footer {	
-     background-color: #a6a6a6;
+     background-color: #bce6f6; 
      height: 70px;
      line-height: 70px;
      color: white;
@@ -55,8 +55,19 @@ h3 {
 	padding-top: 10px;
 	padding-bottom: 10px;
 	padding-left: 20px;
+  color: #000000;
 
 }
+
+p {
+  color: #000000;
+  color: white;
+  -webkit-text-stroke: 1px black;
+  
+}
+
+
+
 #postCircle,
 #imageCircle {
     height: 70px;
@@ -70,11 +81,11 @@ h3 {
 }
 
 #postCircle {
-     background-color: #4acf50;
+     background-color: #d8b99b;  
 }
 
 #imageCircle {
-	background-color: #09c;
+	background-color: #d8b99b;
 }
 
 .inline-blocked{
@@ -107,11 +118,11 @@ h3 {
      color: white;
  }   
  .btn-blue {
-     background-color: #09c;
+     background-color: #d8b99b;
  }
 
  .btn-green { 
- 	background-color: #4caf50;
+ 	background-color: #d8b99b;
 
  }
 
@@ -129,7 +140,7 @@ h3 {
   	 height: 100px; /* defined to maintain aspect ratio of image*/
   	 width: 100px;
   	 padding: 5px; /* targets all sides: top, right, bottom, left */
-  	 background-color: #fff; 
+  	 background-color: #bce6f6; 
   	 border-radius: 3px;
   	 margin: 0 5px;
   }
