@@ -1,0 +1,64 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+form {
+ background-color: blue;
+}
+
+blockquote{
+
+}
+
+h5{
+	background-color: green;
+}
+
+body {
+    display: inline;
+    margin: 8px;
+}
+
+
+h4 {
+    display: inline;
+    -webkit-margin-before: 1.33em;
+    -webkit-margin-after: 1.33em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    font-weight: bold;
+}
+
+html {
+    display: inline;
+}
+
+html {
+    display: inline;
+}
+
+blockquote {
+    display: inline;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 40px;
+    -webkit-margin-end: 40px;
+}
+
+p {
+    display: inline;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+}
+
+
+form {
+    display: block;
+    margin-top: 0em;
+}
+
+
