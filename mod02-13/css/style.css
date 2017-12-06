@@ -4,12 +4,24 @@
     box-sizing: border-box;
 }
 
-header > div.logo{
-    width: 50%;
-    float: right;
-    border-style: solid;
-    padding: 120px;
+h1{
+    text-align: center;
+}
+.apo{
+    border: 10px solid black;
+    margin-left: 420px;
+    margin-right: 420px;
+    padding-top: 40px;
+    padding-bottom: 40px;
     
+   }
+	
+ .father {
+ 	background-color: pink;
+ }   
+    
+p{
+	text-align: center;
 }
 
 h2{
@@ -35,3 +47,12 @@ h5{
     width: 1500px;
 	height: 600px;
 }
+
+.div{
+	background-color: grey;
+}
+
+
+
+
+
